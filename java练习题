@@ -27,10 +27,10 @@ Java综合编程练习
    选择题
 
 整型数据类型中，需要内存空间最多的是（    ）。
-A. short
-B. long
-C. int
-D. byte
+	A. short
+	B. long
+	C. int
+	D. byte
 
 给出下面代码，关于该程序以下哪个说法是正确的？（   ）
 	public class Person{  
