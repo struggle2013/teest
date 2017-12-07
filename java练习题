@@ -33,10 +33,10 @@ C. int
 D. byte
 
 给出下面代码，关于该程序以下哪个说法是正确的？（   ）
- public class Person{  
-static int arr[] = new int[5]; 
-public static void main(String a[]) {	  System.out.println(arr[0]);} }  
-} 
+	public class Person{  
+		static int arr[] = new int[5]; 
+		public static void main(String a[]) {	  System.out.println(arr[0]);} }  
+	} 
 A. 编译时将产生错误
 B. 编译时正确，运行时将产生错误 
 C. 输出零           
